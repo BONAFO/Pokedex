@@ -1,6 +1,6 @@
 "use client";
 
-import pokedex from "@/pokedex";
+import pokedex from "@/src/pokedex";
 import { createContext, useContext, useState } from "react";
 const pokedexData = pokedex;
 const PokemonSearchContext = createContext();
