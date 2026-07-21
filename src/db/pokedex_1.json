@@ -1,0 +1,2978 @@
+[
+  {
+    "id": "#0001",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/f/fb/0001Bulbasaur.png/70px-0001Bulbasaur.png",
+    "name": "Bulbasaur",
+    "url": "/wiki/Bulbasaur_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "First partner Pokémon from Professor Oak in Pallet Town",
+          "First partner Pokémon from Professor Oak in Pallet Town"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "First partner Pokémon from Professor Oak in Pallet Town",
+          "First partner Pokémon from Professor Oak in Pallet Town"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Received from a girl in Cerulean City if the partner Pikachu's friendship is 147 or higher",
+          "Received from a girl in Cerulean City if the partner Pikachu's friendship is 147 or higher"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0002",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/81/0002Ivysaur.png/70px-0002Ivysaur.png",
+    "name": "Ivysaur",
+    "url": "/wiki/Ivysaur_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Bulbasaur", "Evolve Bulbasaur"]
+      ],
+      [["Blue (Japan)"], ["Evolve Bulbasaur", "Evolve Bulbasaur"]],
+      [["Yellow "], ["Evolve Bulbasaur", "Evolve Bulbasaur"]]
+    ]
+  },
+  {
+    "id": "#0003",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/6/6b/0003Venusaur.png/70px-0003Venusaur.png",
+    "name": "Venusaur",
+    "url": "/wiki/Venusaur_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Ivysaur", "Evolve Ivysaur"]
+      ],
+      [["Blue (Japan)"], ["Evolve Ivysaur", "Evolve Ivysaur"]],
+      [["Yellow "], ["Evolve Ivysaur", "Evolve Ivysaur"]]
+    ]
+  },
+  {
+    "id": "#0004",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/27/0004Charmander.png/70px-0004Charmander.png",
+    "name": "Charmander",
+    "url": "/wiki/Charmander_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "First partner Pokémon from Professor Oak in Pallet Town",
+          "First partner Pokémon from Professor Oak in Pallet Town"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "First partner Pokémon from Professor Oak in Pallet Town",
+          "First partner Pokémon from Professor Oak in Pallet Town"
+        ]
+      ],
+      [
+        ["Yellow "],
+        ["Received from a boy on Route 24", "Received from a boy on Route 24"]
+      ]
+    ]
+  },
+  {
+    "id": "#0005",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/05/0005Charmeleon.png/70px-0005Charmeleon.png",
+    "name": "Charmeleon",
+    "url": "/wiki/Charmeleon_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Charmander", "Evolve Charmander"]
+      ],
+      [["Blue (Japan)"], ["Evolve Charmander", "Evolve Charmander"]],
+      [["Yellow "], ["Evolve Charmander", "Evolve Charmander"]]
+    ]
+  },
+  {
+    "id": "#0006",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/3/38/0006Charizard.png/70px-0006Charizard.png",
+    "name": "Charizard",
+    "url": "/wiki/Charizard_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Charmeleon", "Evolve Charmeleon"]
+      ],
+      [["Blue (Japan)"], ["Evolve Charmeleon", "Evolve Charmeleon"]],
+      [["Yellow "], ["Evolve Charmeleon", "Evolve Charmeleon"]]
+    ]
+  },
+  {
+    "id": "#0007",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/5/54/0007Squirtle.png/70px-0007Squirtle.png",
+    "name": "Squirtle",
+    "url": "/wiki/Squirtle_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "First partner Pokémon from Professor Oak in Pallet Town",
+          "First partner Pokémon from Professor Oak in Pallet Town"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "First partner Pokémon from Professor Oak in Pallet Town",
+          "First partner Pokémon from Professor Oak in Pallet Town"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Received from Officer Jenny in Vermilion City after receiving the Thunder Badge",
+          "Received from Officer Jenny in Vermilion City after receiving the Thunder Badge"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0008",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/0f/0008Wartortle.png/70px-0008Wartortle.png",
+    "name": "Wartortle",
+    "url": "/wiki/Wartortle_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Squirtle", "Evolve Squirtle"]
+      ],
+      [["Blue (Japan)"], ["Evolve Squirtle", "Evolve Squirtle"]],
+      [["Yellow "], ["Evolve Squirtle", "Evolve Squirtle"]]
+    ]
+  },
+  {
+    "id": "#0009",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/0a/0009Blastoise.png/70px-0009Blastoise.png",
+    "name": "Blastoise",
+    "url": "/wiki/Blastoise_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Wartortle", "Evolve Wartortle"]
+      ],
+      [["Blue (Japan)"], ["Evolve Wartortle", "Evolve Wartortle"]],
+      [["Yellow "], ["Evolve Wartortle", "Evolve Wartortle"]]
+    ]
+  },
+  {
+    "id": "#0010",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/5/5e/0010Caterpie.png/70px-0010Caterpie.png",
+    "name": "Caterpie",
+    "url": "/wiki/Caterpie_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Route 25, Viridian Forest", "Route 25, Viridian Forest"]],
+      [
+        ["Blue "],
+        [
+          "Routes 2, 24, and 25, Viridian Forest",
+          "Routes 2, 24, and 25, Viridian Forest"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 2, 24, and 25, Viridian Forest",
+          "Routes 2, 24, and 25, Viridian Forest"
+        ]
+      ],
+      [["Yellow "], ["Viridian Forest", "Viridian Forest"]]
+    ]
+  },
+  {
+    "id": "#0011",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/da/0011Metapod.png/70px-0011Metapod.png",
+    "name": "Metapod",
+    "url": "/wiki/Metapod_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Route 25, Viridian Forest", "Route 25, Viridian Forest"]],
+      [
+        ["Blue "],
+        [
+          "Routes 24 and 25, Viridian Forest",
+          "Routes 24 and 25, Viridian Forest"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 24 and 25, Viridian Forest",
+          "Routes 24 and 25, Viridian Forest"
+        ]
+      ],
+      [["Yellow "], ["Viridian Forest", "Viridian Forest"]]
+    ]
+  },
+  {
+    "id": "#0012",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/5/55/0012Butterfree.png/70px-0012Butterfree.png",
+    "name": "Butterfree",
+    "url": "/wiki/Butterfree_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Metapod", "Evolve Metapod"]
+      ],
+      [["Blue (Japan)"], ["Evolve Metapod", "Evolve Metapod"]],
+      [["Yellow "], ["Evolve Metapod", "Evolve Metapod"]]
+    ]
+  },
+  {
+    "id": "#0013",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/3/36/0013Weedle.png/70px-0013Weedle.png",
+    "name": "Weedle",
+    "url": "/wiki/Weedle_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Routes 2, 24, and 25, Viridian Forest",
+          "Routes 2, 24, and 25, Viridian Forest"
+        ]
+      ],
+      [["Blue "], ["Route 25, Viridian Forest", "Route 25, Viridian Forest"]],
+      [
+        ["Blue (Japan)"],
+        ["Route 25, Viridian Forest", "Route 25, Viridian Forest"]
+      ],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0014",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/f/f3/0014Kakuna.png/70px-0014Kakuna.png",
+    "name": "Kakuna",
+    "url": "/wiki/Kakuna_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Routes 24 and 25, Viridian Forest",
+          "Routes 24 and 25, Viridian Forest"
+        ]
+      ],
+      [["Blue "], ["Route 25, Viridian Forest", "Route 25, Viridian Forest"]],
+      [
+        ["Blue (Japan)"],
+        ["Route 25, Viridian Forest", "Route 25, Viridian Forest"]
+      ],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0015",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/f/f7/0015Beedrill.png/70px-0015Beedrill.png",
+    "name": "Beedrill",
+    "url": "/wiki/Beedrill_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Kakuna", "Evolve Kakuna"]
+      ],
+      [["Blue (Japan)"], ["Evolve Kakuna", "Evolve Kakuna"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0016",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/0c/0016Pidgey.png/70px-0016Pidgey.png",
+    "name": "Pidgey",
+    "url": "/wiki/Pidgey_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 21, 24, and 25",
+          "Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 21, 24, and 25"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 21, 24, and 25",
+          "Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 21, 24, and 25"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 1, 2, 5, 6, 7, 8, 11, 12, 13, 21, 24, and 25, Viridian Forest",
+          "Routes 1, 2, 5, 6, 7, 8, 11, 12, 13, 21, 24, and 25, Viridian Forest"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0017",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/82/0017Pidgeotto.png/70px-0017Pidgeotto.png",
+    "name": "Pidgeotto",
+    "url": "/wiki/Pidgeotto_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Routes 14, 15, and 21", "Routes 14, 15, and 21"]
+      ],
+      [["Blue (Japan)"], ["Routes 14, 15, and 21", "Routes 14, 15, and 21"]],
+      [
+        ["Yellow "],
+        [
+          "Routes 5, 6, 7, 8, 11, 12, 13, 14, 15, 21, 24, and 25, Viridian Forest",
+          "Routes 5, 6, 7, 8, 11, 12, 13, 14, 15, 21, 24, and 25, Viridian Forest"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0018",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/7/73/0018Pidgeot.png/70px-0018Pidgeot.png",
+    "name": "Pidgeot",
+    "url": "/wiki/Pidgeot_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Pidgeotto", "Evolve Pidgeotto"]
+      ],
+      [["Blue (Japan)"], ["Evolve Pidgeotto", "Evolve Pidgeotto"]],
+      [["Yellow "], ["Evolve Pidgeotto", "Evolve Pidgeotto"]]
+    ]
+  },
+  {
+    "id": "#0019",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/aa/0019Rattata.png/70px-0019Rattata.png",
+    "name": "Rattata",
+    "url": "/wiki/Rattata_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 1, 2, 4, 9, 16, 21, and 22",
+          "Routes 1, 2, 4, 9, 16, 21, and 22"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 1, 2, 4, 9, 16, 21, and 22",
+          "Routes 1, 2, 4, 9, 16, 21, and 22"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16, 18, 21, and 22, Pokémon Mansion",
+          "Routes 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16, 18, 21, and 22, Pokémon Mansion"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0020",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/2c/0020Raticate.png/70px-0020Raticate.png",
+    "name": "Raticate",
+    "url": "/wiki/Raticate_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Routes 16, 17, 18, and 21", "Routes 16, 17, 18, and 21"]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 16, 17, 18, and 21, Cerulean Cave",
+          "Routes 16, 17, 18, and 21, Cerulean Cave"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 9, 10, 11, 16, 18, and 21, Pokémon Mansion",
+          "Routes 9, 10, 11, 16, 18, and 21, Pokémon Mansion"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0021",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/2d/0021Spearow.png/70px-0021Spearow.png",
+    "name": "Spearow",
+    "url": "/wiki/Spearow_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23",
+          "Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23",
+          "Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23"
+        ]
+      ],
+      [
+        ["Yellow "],
+        ["Routes 3, 4, 9, 16, 18, and 22", "Routes 3, 4, 9, 16, 18, and 22"]
+      ]
+    ]
+  },
+  {
+    "id": "#0022",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/9/92/0022Fearow.png/70px-0022Fearow.png",
+    "name": "Fearow",
+    "url": "/wiki/Fearow_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Routes 17, 18, and 23", "Routes 17, 18, and 23"]
+      ],
+      [["Blue (Japan)"], ["Routes 17, 18, and 23", "Routes 17, 18, and 23"]],
+      [
+        ["Yellow "],
+        ["Routes 9, 16, 17, 18, and 23", "Routes 9, 16, 17, 18, and 23"]
+      ]
+    ]
+  },
+  {
+    "id": "#0023",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/d2/0023Ekans.png/70px-0023Ekans.png",
+    "name": "Ekans",
+    "url": "/wiki/Ekans_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        ["Routes 4, 8, 9, 10, 11, and 23", "Routes 4, 8, 9, 10, 11, and 23"]
+      ],
+      [["Blue "], ["Trade", "Trade"]],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0024",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/5/51/0024Arbok.png/70px-0024Arbok.png",
+    "name": "Arbok",
+    "url": "/wiki/Arbok_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Route 23 and Cerulean Cave", "Route 23 and Cerulean Cave"]],
+      [["Blue "], ["Trade", "Trade"]],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0025",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/4/4a/0025Pikachu.png/70px-0025Pikachu.png",
+    "name": "Pikachu",
+    "url": "/wiki/Pikachu_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Viridian Forest, Power Plant", "Viridian Forest, Power Plant"]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Viridian Forest, Power Plant, Rocket Game Corner",
+          "Viridian Forest, Power Plant, Rocket Game Corner"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "First Pokémon from Professor Oak in Pallet Town",
+          "First Pokémon from Professor Oak in Pallet Town"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0026",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/b0/0026Raichu.png/70px-0026Raichu.png",
+    "name": "Raichu",
+    "url": "/wiki/Raichu_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Cerulean Cave", "Cerulean Cave"]],
+      [["Blue "], ["Power Plant, Cerulean Cave", "Power Plant, Cerulean Cave"]],
+      [
+        ["Blue (Japan)"],
+        ["Power Plant, Cerulean Cave", "Power Plant, Cerulean Cave"]
+      ],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0027",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/e9/0027Sandshrew.png/70px-0027Sandshrew.png",
+    "name": "Sandshrew",
+    "url": "/wiki/Sandshrew_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [
+        ["Blue "],
+        ["Routes 4, 8, 9, 10, 11, and 23", "Routes 4, 8, 9, 10, 11, and 23"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Routes 4, 8, 9, 10, 11, and 23", "Routes 4, 8, 9, 10, 11, and 23"]
+      ],
+      [["Yellow "], ["Routes 3 and 4, Mt. Moon", "Routes 3 and 4, Mt. Moon"]]
+    ]
+  },
+  {
+    "id": "#0028",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/a4/0028Sandslash.png/70px-0028Sandslash.png",
+    "name": "Sandslash",
+    "url": "/wiki/Sandslash_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [["Blue "], ["Route 23, Cerulean Cave", "Route 23, Cerulean Cave"]],
+      [
+        ["Blue (Japan)"],
+        ["Route 23, Cerulean Cave", "Route 23, Cerulean Cave"]
+      ],
+      [["Yellow "], ["Cerulean Cave", "Cerulean Cave"]]
+    ]
+  },
+  {
+    "id": "#0029",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/b2/0029Nidoran.png/70px-0029Nidoran.png",
+    "name": "Nidoran♀",
+    "url": "/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Route 22, Safari ZoneTrade Nidoran♂ in Underground Path (Kanto Routes 5–6) (Western languages only)",
+          "Route 22, Safari ZoneTrade Nidoran♂ in Underground Path (Kanto Routes 5–6) (Western languages only)"
+        ]
+      ],
+      [["Blue (Japan)"], ["Route 22, Safari Zone", "Route 22, Safari Zone"]],
+      [
+        ["Yellow "],
+        [
+          "Routes 2, 9, 10, and 22, Safari Zone",
+          "Routes 2, 9, 10, and 22, Safari Zone"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0030",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/ea/0030Nidorina.png/70px-0030Nidorina.png",
+    "name": "Nidorina",
+    "url": "/wiki/Nidorina_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Safari Zone, Celadon City (Rocket Game Corner)Trade Nidorino on Route 11",
+          "Safari Zone, Celadon City (Rocket Game Corner)Trade Nidorino on Route 11"
+        ]
+      ],
+      [
+        ["Blue "],
+        [
+          "Safari ZoneTrade Nidorino on Route 11",
+          "Safari ZoneTrade Nidorino on Route 11"
+        ]
+      ],
+      [["Blue (Japan)"], ["Safari Zone", "Safari Zone"]],
+      [
+        ["Yellow "],
+        ["Routes 9 and 23, Safari Zone", "Routes 9 and 23, Safari Zone"]
+      ]
+    ]
+  },
+  {
+    "id": "#0031",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/9/9d/0031Nidoqueen.png/70px-0031Nidoqueen.png",
+    "name": "Nidoqueen",
+    "url": "/wiki/Nidoqueen_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Nidorina", "Evolve Nidorina"]
+      ],
+      [["Blue (Japan)"], ["Evolve Nidorina", "Evolve Nidorina"]],
+      [["Yellow "], ["Evolve Nidorina", "Evolve Nidorina"]]
+    ]
+  },
+  {
+    "id": "#0032",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/8c/0032Nidoran.png/70px-0032Nidoran.png",
+    "name": "Nidoran♂",
+    "url": "/wiki/Nidoran%E2%99%82_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Route 22, Safari ZoneTrade Nidoran♀ in Underground Path (Kanto Routes 5–6) (Japanese Pokémon Red and Green only)",
+          "Route 22, Safari ZoneTrade Nidoran♀ in Underground Path (Kanto Routes 5–6) (Japanese Pokémon Red and Green only)"
+        ]
+      ],
+      [["Blue (Japan)"], ["Route 22, Safari Zone", "Route 22, Safari Zone"]],
+      [
+        ["Yellow "],
+        [
+          "Routes 2, 9, 10, and 22, Safari Zone",
+          "Routes 2, 9, 10, and 22, Safari Zone"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0033",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/1/1e/0033Nidorino.png/70px-0033Nidorino.png",
+    "name": "Nidorino",
+    "url": "/wiki/Nidorino_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Safari Zone", "Safari Zone"]],
+      [
+        ["Blue "],
+        ["Safari Zone, Celadon Game Corner", "Safari Zone, Celadon Game Corner"]
+      ],
+      [["Blue (Japan)"], ["Safari Zone", "Safari Zone"]],
+      [
+        ["Yellow "],
+        ["Routes 9 and 23, Safari Zone", "Routes 9 and 23, Safari Zone"]
+      ]
+    ]
+  },
+  {
+    "id": "#0034",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/21/0034Nidoking.png/70px-0034Nidoking.png",
+    "name": "Nidoking",
+    "url": "/wiki/Nidoking_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Nidorino", "Evolve Nidorino"]
+      ],
+      [["Blue (Japan)"], ["Evolve Nidorino", "Evolve Nidorino"]],
+      [["Yellow "], ["Evolve Nidorino", "Evolve Nidorino"]]
+    ]
+  },
+  {
+    "id": "#0035",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/b7/0035Clefairy.png/70px-0035Clefairy.png",
+    "name": "Clefairy",
+    "url": "/wiki/Clefairy_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Mt. Moon, Celadon City (Rocket Game Corner)",
+          "Mt. Moon, Celadon City (Rocket Game Corner)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Mt. Moon, Cerulean Cave", "Mt. Moon, Cerulean Cave"]
+      ],
+      [["Yellow "], ["Mt. Moon", "Mt. Moon"]]
+    ]
+  },
+  {
+    "id": "#0036",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/a4/0036Clefable.png/70px-0036Clefable.png",
+    "name": "Clefable",
+    "url": "/wiki/Clefable_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Clefairy", "Evolve Clefairy"]
+      ],
+      [["Blue (Japan)"], ["Rocket Game Corner", "Rocket Game Corner"]],
+      [["Yellow "], ["Evolve Clefairy", "Evolve Clefairy"]]
+    ]
+  },
+  {
+    "id": "#0037",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/06/0037Vulpix.png/70px-0037Vulpix.png",
+    "name": "Vulpix",
+    "url": "/wiki/Vulpix_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [
+        ["Blue "],
+        ["Routes 7 and 8, Pokémon Mansion", "Routes 7 and 8, Pokémon Mansion"]
+      ],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [
+        ["Yellow "],
+        [
+          "Celadon City (Rocket Game Corner)",
+          "Celadon City (Rocket Game Corner)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0038",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/3/3e/0038Ninetales.png/70px-0038Ninetales.png",
+    "name": "Ninetales",
+    "url": "/wiki/Ninetales_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [["Blue "], ["Evolve Vulpix", "Evolve Vulpix"]],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [["Yellow "], ["Evolve Vulpix", "Evolve Vulpix"]]
+    ]
+  },
+  {
+    "id": "#0039",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/0039Jigglypuff.png/70px-0039Jigglypuff.png",
+    "name": "Jigglypuff",
+    "url": "/wiki/Jigglypuff_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Route 3", "Route 3"]
+      ],
+      [["Blue (Japan)"], ["Route 3", "Route 3"]],
+      [["Yellow "], ["Routes 5, 6, 7, and 8", "Routes 5, 6, 7, and 8"]]
+    ]
+  },
+  {
+    "id": "#0040",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/e2/0040Wigglytuff.png/70px-0040Wigglytuff.png",
+    "name": "Wigglytuff",
+    "url": "/wiki/Wigglytuff_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Cerulean Cave", "Cerulean Cave"]
+      ],
+      [["Blue (Japan)"], ["Cerulean Cave", "Cerulean Cave"]],
+      [
+        ["Yellow "],
+        [
+          "Celadon City (Rocket Game Corner)",
+          "Celadon City (Rocket Game Corner)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0041",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/4/4c/0041Zubat.png/70px-0041Zubat.png",
+    "name": "Zubat",
+    "url": "/wiki/Zubat_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road",
+          "Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road",
+          "Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road",
+          "Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0042",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/7/76/0042Golbat.png/70px-0042Golbat.png",
+    "name": "Golbat",
+    "url": "/wiki/Golbat_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Seafoam Islands, Victory Road, Cerulean Cave",
+          "Seafoam Islands, Victory Road, Cerulean Cave"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Seafoam Islands, Victory Road, Cerulean Cave",
+          "Seafoam Islands, Victory Road, Cerulean Cave"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Seafoam Islands, Victory Road, Cerulean Cave",
+          "Seafoam Islands, Victory Road, Cerulean Cave"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0043",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/1/16/0043Oddish.png/70px-0043Oddish.png",
+    "name": "Oddish",
+    "url": "/wiki/Oddish_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25",
+          "Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25"
+        ]
+      ],
+      [["Blue "], ["Trade", "Trade"]],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25",
+          "Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 12, 13, 14, 15, 24, and 25",
+          "Routes 12, 13, 14, 15, 24, and 25"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0044",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/e0/0044Gloom.png/70px-0044Gloom.png",
+    "name": "Gloom",
+    "url": "/wiki/Gloom_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Routes 12, 13, 14, and 15", "Routes 12, 13, 14, and 15"]],
+      [["Blue "], ["Trade", "Trade"]],
+      [
+        ["Blue (Japan)"],
+        ["Routes 12, 13, 14, and 15", "Routes 12, 13, 14, and 15"]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 12, 13, 14, and 15, Cerulean Cave",
+          "Routes 12, 13, 14, and 15, Cerulean Cave"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0045",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/89/0045Vileplume.png/70px-0045Vileplume.png",
+    "name": "Vileplume",
+    "url": "/wiki/Vileplume_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Evolve Gloom", "Evolve Gloom"]],
+      [["Blue "], ["Trade", "Trade"]],
+      [["Blue (Japan)"], ["Evolve Gloom", "Evolve Gloom"]],
+      [["Yellow "], ["Evolve Gloom", "Evolve Gloom"]]
+    ]
+  },
+  {
+    "id": "#0046",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/8a/0046Paras.png/70px-0046Paras.png",
+    "name": "Paras",
+    "url": "/wiki/Paras_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Mt. Moon, Safari Zone", "Mt. Moon, Safari Zone"]
+      ],
+      [["Blue (Japan)"], ["Mt. Moon, Safari Zone", "Mt. Moon, Safari Zone"]],
+      [["Yellow "], ["Mt. Moon, Safari Zone", "Mt. Moon, Safari Zone"]]
+    ]
+  },
+  {
+    "id": "#0047",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/7/7b/0047Parasect.png/70px-0047Parasect.png",
+    "name": "Parasect",
+    "url": "/wiki/Parasect_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Safari Zone, Cerulean Cave", "Safari Zone, Cerulean Cave"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Safari Zone, Cerulean Cave", "Safari Zone, Cerulean Cave"]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Safari Zone, Cerulean CaveTrade for Tangela on Route 18",
+          "Safari Zone, Cerulean CaveTrade for Tangela on Route 18"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0048",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/2c/0048Venonat.png/70px-0048Venonat.png",
+    "name": "Venonat",
+    "url": "/wiki/Venonat_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 12, 13, 14, and 15, Safari Zone",
+          "Routes 12, 13, 14, and 15, Safari Zone"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 12, 13, 14, and 15, Safari Zone",
+          "Routes 12, 13, 14, and 15, Safari Zone"
+        ]
+      ],
+      [["Yellow "], ["Routes 14, 15, 24, and 25", "Routes 14, 15, 24, and 25"]]
+    ]
+  },
+  {
+    "id": "#0049",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/0e/0049Venomoth.png/70px-0049Venomoth.png",
+    "name": "Venomoth",
+    "url": "/wiki/Venomoth_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Safari Zone, Victory Road, Cerulean Cave",
+          "Safari Zone, Victory Road, Cerulean Cave"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Safari Zone, Victory Road, Cerulean Cave",
+          "Safari Zone, Victory Road, Cerulean Cave"
+        ]
+      ],
+      [
+        ["Yellow "],
+        ["Routes 14 and 15, Cerulean Cave", "Routes 14 and 15, Cerulean Cave"]
+      ]
+    ]
+  },
+  {
+    "id": "#0050",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/a6/0050Diglett.png/70px-0050Diglett.png",
+    "name": "Diglett",
+    "url": "/wiki/Diglett_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Diglett's Cave", "Diglett's Cave"]
+      ],
+      [["Blue (Japan)"], ["Diglett's Cave", "Diglett's Cave"]],
+      [["Yellow "], ["Diglett's Cave", "Diglett's Cave"]]
+    ]
+  },
+  {
+    "id": "#0051",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/88/0051Dugtrio.png/70px-0051Dugtrio.png",
+    "name": "Dugtrio",
+    "url": "/wiki/Dugtrio_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Diglett's Cave", "Diglett's Cave"]
+      ],
+      [["Blue (Japan)"], ["Diglett's Cave", "Diglett's Cave"]],
+      [
+        ["Yellow "],
+        [
+          "Diglett's CaveTrade Lickitung on Route 11",
+          "Diglett's CaveTrade Lickitung on Route 11"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0052",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/d6/0052Meowth.png/70px-0052Meowth.png",
+    "name": "Meowth",
+    "url": "/wiki/Meowth_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [["Blue "], ["Routes 5, 6, 7, and 8", "Routes 5, 6, 7, and 8"]],
+      [["Blue (Japan)"], ["Routes 5, 6, 7, and 8", "Routes 5, 6, 7, and 8"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0053",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/b0/0053Persian.png/70px-0053Persian.png",
+    "name": "Persian",
+    "url": "/wiki/Persian_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [["Blue "], ["Evolve Meowth", "Evolve Meowth"]],
+      [["Blue (Japan)"], ["Evolve Meowth", "Evolve Meowth"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0054",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/3/3f/0054Psyduck.png/70px-0054Psyduck.png",
+    "name": "Psyduck",
+    "url": "/wiki/Psyduck_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Seafoam IslandsRoutes 24 and 25, Cerulean City, Cerulean Gym, Safari Zone (Super Rod)",
+          "Seafoam IslandsRoutes 24 and 25, Cerulean City, Cerulean Gym, Safari Zone (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 24 and 25, Cerulean City, Cerulean Gym, Safari Zone (Super Rod)",
+          "Routes 24 and 25, Cerulean City, Cerulean Gym, Safari Zone (Super Rod)"
+        ]
+      ],
+      [["Yellow "], ["Route 6 (Surfing)", "Route 6 (Surfing)"]]
+    ]
+  },
+  {
+    "id": "#0055",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/ed/0055Golduck.png/70px-0055Golduck.png",
+    "name": "Golduck",
+    "url": "/wiki/Golduck_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Seafoam Islands", "Seafoam Islands"]
+      ],
+      [["Blue (Japan)"], ["Evolve Psyduck", "Evolve Psyduck"]],
+      [["Yellow "], ["Route 6 (Surfing)", "Route 6 (Surfing)"]]
+    ]
+  },
+  {
+    "id": "#0056",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/f/fa/0056Mankey.png/70px-0056Mankey.png",
+    "name": "Mankey",
+    "url": "/wiki/Mankey_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Routes 5, 6, 7, and 8", "Routes 5, 6, 7, and 8"]],
+      [["Blue "], ["Trade", "Trade"]],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [["Yellow "], ["Routes 3, 4, 22, and 23", "Routes 3, 4, 22, and 23"]]
+    ]
+  },
+  {
+    "id": "#0057",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/2c/0057Primeape.png/70px-0057Primeape.png",
+    "name": "Primeape",
+    "url": "/wiki/Primeape_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Evolve Mankey", "Evolve Mankey"]],
+      [["Blue "], ["Trade", "Trade"]],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [["Yellow "], ["Route 23", "Route 23"]]
+    ]
+  },
+  {
+    "id": "#0058",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/6/6a/0058Growlithe.png/70px-0058Growlithe.png",
+    "name": "Growlithe",
+    "url": "/wiki/Growlithe_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        ["Routes 7 and 8, Pokémon Mansion", "Routes 7 and 8, Pokémon Mansion"]
+      ],
+      [["Blue "], ["Trade", "Trade"]],
+      [
+        ["Blue (Japan)"],
+        ["Routes 7 and 8, Pokémon Mansion", "Routes 7 and 8, Pokémon Mansion"]
+      ],
+      [["Yellow "], ["Pokémon Mansion", "Pokémon Mansion"]]
+    ]
+  },
+  {
+    "id": "#0059",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/4/42/0059Arcanine.png/70px-0059Arcanine.png",
+    "name": "Arcanine",
+    "url": "/wiki/Arcanine_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Evolve Growlithe", "Evolve Growlithe"]],
+      [["Blue "], ["Trade", "Trade"]],
+      [["Blue (Japan)"], ["Evolve Growlithe", "Evolve Growlithe"]],
+      [["Yellow "], ["Evolve Growlithe", "Evolve Growlithe"]]
+    ]
+  },
+  {
+    "id": "#0060",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/e4/0060Poliwag.png/70px-0060Poliwag.png",
+    "name": "Poliwag",
+    "url": "/wiki/Poliwag_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod)Pallet Town, Viridian City, Route 22 (Super Rod)",
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod)Pallet Town, Viridian City, Route 22 (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod)Route 22, Pallet Town, Viridian City (Super Rod)Trade for Rattata on Route 5",
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod)Route 22, Pallet Town, Viridian City (Super Rod)Trade for Rattata on Route 5"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod)Routes 22 and 23, Viridian City (Super Rod)",
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod)Routes 22 and 23, Viridian City (Super Rod)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0061",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/f/fd/0061Poliwhirl.png/70px-0061Poliwhirl.png",
+    "name": "Poliwhirl",
+    "url": "/wiki/Poliwhirl_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Route 10 and Celadon City (Super Rod)",
+          "Route 10 and Celadon City (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Route 10 and Celadon City (Super Rod)",
+          "Route 10 and Celadon City (Super Rod)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        ["Routes 22 and 23 (Super Rod)", "Routes 22 and 23 (Super Rod)"]
+      ]
+    ]
+  },
+  {
+    "id": "#0062",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/80/0062Poliwrath.png/70px-0062Poliwrath.png",
+    "name": "Poliwrath",
+    "url": "/wiki/Poliwrath_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Poliwhirl", "Evolve Poliwhirl"]
+      ],
+      [["Blue (Japan)"], ["Evolve Poliwhirl", "Evolve Poliwhirl"]],
+      [["Yellow "], ["Evolve Poliwhirl", "Evolve Poliwhirl"]]
+    ]
+  },
+  {
+    "id": "#0063",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/bd/0063Abra.png/70px-0063Abra.png",
+    "name": "Abra",
+    "url": "/wiki/Abra_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 24 and 25, Celadon City (Rocket Game Corner)",
+          "Routes 24 and 25, Celadon City (Rocket Game Corner)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 24 and 25, Celadon City (Rocket Game Corner)",
+          "Routes 24 and 25, Celadon City (Rocket Game Corner)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 5, 6, 7, and 8, Celadon City (Rocket Game Corner)",
+          "Routes 5, 6, 7, and 8, Celadon City (Rocket Game Corner)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0064",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/af/0064Kadabra.png/70px-0064Kadabra.png",
+    "name": "Kadabra",
+    "url": "/wiki/Kadabra_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Cerulean Cave", "Cerulean Cave"]
+      ],
+      [["Blue (Japan)"], ["Cerulean Cave", "Cerulean Cave"]],
+      [["Yellow "], ["Route 8", "Route 8"]]
+    ]
+  },
+  {
+    "id": "#0065",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/bb/0065Alakazam.png/70px-0065Alakazam.png",
+    "name": "Alakazam",
+    "url": "/wiki/Alakazam_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Kadabra", "Evolve Kadabra"]
+      ],
+      [["Blue (Japan)"], ["Evolve Kadabra", "Evolve Kadabra"]],
+      [["Yellow "], ["Evolve Kadabra", "Evolve Kadabra"]]
+    ]
+  },
+  {
+    "id": "#0066",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/02/0066Machop.png/70px-0066Machop.png",
+    "name": "Machop",
+    "url": "/wiki/Machop_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Rock Tunnel, Victory Road", "Rock Tunnel, Victory Road"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Rock Tunnel, Victory Road", "Rock Tunnel, Victory Road"]
+      ],
+      [["Yellow "], ["Route 10, Rock Tunnel", "Route 10, Rock Tunnel"]]
+    ]
+  },
+  {
+    "id": "#0067",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/22/0067Machoke.png/70px-0067Machoke.png",
+    "name": "Machoke",
+    "url": "/wiki/Machoke_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Victory Road", "Victory Road"]
+      ],
+      [["Blue (Japan)"], ["Victory Road", "Victory Road"]],
+      [
+        ["Yellow "],
+        [
+          "Victory RoadTrade Cubone in Underground Path (Kanto Routes 5–6)*",
+          "Victory RoadTrade Cubone in Underground Path (Kanto Routes 5–6)*"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0068",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/82/0068Machamp.png/70px-0068Machamp.png",
+    "name": "Machamp",
+    "url": "/wiki/Machamp_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Machoke", "Evolve Machoke"]
+      ],
+      [["Blue (Japan)"], ["Evolve Machoke", "Evolve Machoke"]],
+      [
+        ["Yellow "],
+        [
+          "Trade Cubone for Machoke in Underground Path (Kanto Routes 5–6) (evolves immediately)",
+          "Trade Cubone for Machoke in Underground Path (Kanto Routes 5–6) (evolves immediately)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0069",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/6/66/0069Bellsprout.png/70px-0069Bellsprout.png",
+    "name": "Bellsprout",
+    "url": "/wiki/Bellsprout_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [
+        ["Blue "],
+        [
+          "Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25",
+          "Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25"
+        ]
+      ],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [
+        ["Yellow "],
+        [
+          "Routes 12, 13, 14, 15, 24, and 25",
+          "Routes 12, 13, 14, 15, 24, and 25"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0070",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/c/c1/0070Weepinbell.png/70px-0070Weepinbell.png",
+    "name": "Weepinbell",
+    "url": "/wiki/Weepinbell_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [["Blue "], ["Routes 12, 13, 14, and 15", "Routes 12, 13, 14, and 15"]],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [
+        ["Yellow "],
+        [
+          "Routes 12, 13, 14, and 15, Cerulean Cave",
+          "Routes 12, 13, 14, and 15, Cerulean Cave"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0071",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/e9/0071Victreebel.png/70px-0071Victreebel.png",
+    "name": "Victreebel",
+    "url": "/wiki/Victreebel_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [["Blue "], ["Evolve Weepinbell", "Evolve Weepinbell"]],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [["Yellow "], ["Evolve Weepinbell", "Evolve Weepinbell"]]
+    ]
+  },
+  {
+    "id": "#0072",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/6/6e/0072Tentacool.png/70px-0072Tentacool.png",
+    "name": "Tentacool",
+    "url": "/wiki/Tentacool_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 19, 20, and 21 (Surfing)Routes 12, 13, 17, and 18, Pallet Town, Viridian City (Super Rod)",
+          "Routes 19, 20, and 21 (Surfing)Routes 12, 13, 17, and 18, Pallet Town, Viridian City (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 19, 20, and 21 (Surfing)Routes 12, 13, 17, and 18, Pallet Town, Viridian City (Super Rod)",
+          "Routes 19, 20, and 21 (Surfing)Routes 12, 13, 17, and 18, Pallet Town, Viridian City (Super Rod)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 19, 20, and 21, Seafoam Islands (Surfing)Routes 11, 13, 17, 18, 19, 20, and 21, Pallet Town, Vermilion City, Cinnabar Island (Super Rod)",
+          "Routes 19, 20, and 21, Seafoam Islands (Surfing)Routes 11, 13, 17, 18, 19, 20, and 21, Pallet Town, Vermilion City, Cinnabar Island (Super Rod)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0073",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/c/cb/0073Tentacruel.png/70px-0073Tentacruel.png",
+    "name": "Tentacruel",
+    "url": "/wiki/Tentacruel_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Tentacool", "Evolve Tentacool"]
+      ],
+      [["Blue (Japan)"], ["Evolve Tentacool", "Evolve Tentacool"]],
+      [
+        ["Yellow "],
+        [
+          "Routes 19, 20, and 21 (Super Rod)",
+          "Routes 19, 20, and 21 (Super Rod)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0074",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/9/97/0074Geodude.png/70px-0074Geodude.png",
+    "name": "Geodude",
+    "url": "/wiki/Geodude_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Mt. Moon, Rock Tunnel, Victory Road",
+          "Mt. Moon, Rock Tunnel, Victory Road"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Mt. Moon, Rock Tunnel, Victory Road",
+          "Mt. Moon, Rock Tunnel, Victory Road"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Mt. Moon, Rock Tunnel, Victory Road",
+          "Mt. Moon, Rock Tunnel, Victory Road"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0075",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/d4/0075Graveler.png/70px-0075Graveler.png",
+    "name": "Graveler",
+    "url": "/wiki/Graveler_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Victory Road", "Victory Road"]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Victory RoadTrade Kadabra at the Pokémon Lab on Cinnabar Island*",
+          "Victory RoadTrade Kadabra at the Pokémon Lab on Cinnabar Island*"
+        ]
+      ],
+      [
+        ["Yellow "],
+        ["Victory Road, Cerulean Cave", "Victory Road, Cerulean Cave"]
+      ]
+    ]
+  },
+  {
+    "id": "#0076",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/3/38/0076Golem.png/70px-0076Golem.png",
+    "name": "Golem",
+    "url": "/wiki/Golem_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Graveler", "Evolve Graveler"]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Trade Kadabra for Graveler at the Pokémon Lab on Cinnabar Island*",
+          "Trade Kadabra for Graveler at the Pokémon Lab on Cinnabar Island*"
+        ]
+      ],
+      [["Yellow "], ["Evolve Graveler", "Evolve Graveler"]]
+    ]
+  },
+  {
+    "id": "#0077",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/c/c0/0077Ponyta.png/70px-0077Ponyta.png",
+    "name": "Ponyta",
+    "url": "/wiki/Ponyta_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Pokémon Mansion", "Pokémon Mansion"]
+      ],
+      [["Blue (Japan)"], ["Pokémon Mansion", "Pokémon Mansion"]],
+      [["Yellow "], ["Route 17", "Route 17"]]
+    ]
+  },
+  {
+    "id": "#0078",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/a9/0078Rapidash.png/70px-0078Rapidash.png",
+    "name": "Rapidash",
+    "url": "/wiki/Rapidash_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Ponyta", "Evolve Ponyta"]
+      ],
+      [["Blue (Japan)"], ["Cerulean Cave", "Cerulean Cave"]],
+      [["Yellow "], ["Evolve Ponyta", "Evolve Ponyta"]]
+    ]
+  },
+  {
+    "id": "#0079",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/1/19/0079Slowpoke.png/70px-0079Slowpoke.png",
+    "name": "Slowpoke",
+    "url": "/wiki/Slowpoke_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Seafoam IslandsRoute 10, Celadon City, and Safari Zone (Super Rod)",
+          "Seafoam IslandsRoute 10, Celadon City, and Safari Zone (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Seafoam IslandsRoute 10, Celadon City, and Safari Zone (Super Rod)Trade for Seel at the Pokémon Lab",
+          "Seafoam IslandsRoute 10, Celadon City, and Safari Zone (Super Rod)Trade for Seel at the Pokémon Lab"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Seafoam IslandsRoutes 12 and 13 (surfing)",
+          "Seafoam IslandsRoutes 12 and 13 (surfing)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0080",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/a3/0080Slowbro.png/70px-0080Slowbro.png",
+    "name": "Slowbro",
+    "url": "/wiki/Slowbro_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Route 23 and Cerulean Cave (Super Rod)Seafoam Islands (walking)",
+          "Route 23 and Cerulean Cave (Super Rod)Seafoam Islands (walking)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Route 23 and Cerulean Cave (Super Rod)Seafoam Islands (walking)",
+          "Route 23 and Cerulean Cave (Super Rod)Seafoam Islands (walking)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 12 and 13 (surfing)Seafoam Islands (walking)",
+          "Routes 12 and 13 (surfing)Seafoam Islands (walking)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0081",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/a2/0081Magnemite.png/70px-0081Magnemite.png",
+    "name": "Magnemite",
+    "url": "/wiki/Magnemite_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Power Plant", "Power Plant"]
+      ],
+      [["Blue (Japan)"], ["Power Plant", "Power Plant"]],
+      [["Yellow "], ["Route 10, Power Plant", "Route 10, Power Plant"]]
+    ]
+  },
+  {
+    "id": "#0082",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/d9/0082Magneton.png/70px-0082Magneton.png",
+    "name": "Magneton",
+    "url": "/wiki/Magneton_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Power Plant, Cerulean Cave", "Power Plant, Cerulean Cave"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Power Plant, Cerulean Cave", "Power Plant, Cerulean Cave"]
+      ],
+      [["Yellow "], ["Power Plant", "Power Plant"]]
+    ]
+  },
+  {
+    "id": "#0083",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/9/99/0083Farfetch%27d.png/70px-0083Farfetch%27d.png",
+    "name": "Farfetch'd",
+    "url": "/wiki/Farfetch%27d_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Trade Spearow in Vermilion City", "Trade Spearow in Vermilion City"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Trade Pidgey in Vermilion City", "Trade Pidgey in Vermilion City"]
+      ],
+      [["Yellow "], ["Routes 12 and 13", "Routes 12 and 13"]]
+    ]
+  },
+  {
+    "id": "#0084",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/b9/0084Doduo.png/70px-0084Doduo.png",
+    "name": "Doduo",
+    "url": "/wiki/Doduo_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 16, 17, and 18, Safari Zone",
+          "Routes 16, 17, and 18, Safari Zone"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 16, 17, and 18, Safari Zone",
+          "Routes 16, 17, and 18, Safari Zone"
+        ]
+      ],
+      [["Yellow "], ["Routes 16, 17, and 18", "Routes 16, 17, and 18"]]
+    ]
+  },
+  {
+    "id": "#0085",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/9/97/0085Dodrio.png/70px-0085Dodrio.png",
+    "name": "Dodrio",
+    "url": "/wiki/Dodrio_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Cerulean Cave", "Cerulean Cave"]
+      ],
+      [["Blue (Japan)"], ["Cerulean Cave", "Cerulean Cave"]],
+      [["Yellow "], ["Route 17", "Route 17"]]
+    ]
+  },
+  {
+    "id": "#0086",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/22/0086Seel.png/70px-0086Seel.png",
+    "name": "Seel",
+    "url": "/wiki/Seel_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Seafoam IslandsTrade Ponyta at the Pokémon Lab on Cinnabar Island",
+          "Seafoam IslandsTrade Ponyta at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [["Blue (Japan)"], ["Seafoam Islands", "Seafoam Islands"]],
+      [["Yellow "], ["Seafoam Islands", "Seafoam Islands"]]
+    ]
+  },
+  {
+    "id": "#0087",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/2b/0087Dewgong.png/70px-0087Dewgong.png",
+    "name": "Dewgong",
+    "url": "/wiki/Dewgong_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Seafoam Islands", "Seafoam Islands"]
+      ],
+      [["Blue (Japan)"], ["Seafoam Islands", "Seafoam Islands"]],
+      [
+        ["Yellow "],
+        [
+          "Seafoam IslandsTrade Growlithe at the Pokémon Lab on Cinnabar Island",
+          "Seafoam IslandsTrade Growlithe at the Pokémon Lab on Cinnabar Island"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0088",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/eb/0088Grimer.png/70px-0088Grimer.png",
+    "name": "Grimer",
+    "url": "/wiki/Grimer_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Pokémon Mansion", "Pokémon Mansion"]
+      ],
+      [["Blue (Japan)"], ["Pokémon Mansion", "Pokémon Mansion"]],
+      [
+        ["Yellow "],
+        ["Pokémon Mansion, Power Plant", "Pokémon Mansion, Power Plant"]
+      ]
+    ]
+  },
+  {
+    "id": "#0089",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/4/41/0089Muk.png/70px-0089Muk.png",
+    "name": "Muk",
+    "url": "/wiki/Muk_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Pokémon Mansion", "Pokémon Mansion"]
+      ],
+      [["Blue (Japan)"], ["Pokémon Mansion", "Pokémon Mansion"]],
+      [
+        ["Yellow "],
+        [
+          "Pokémon Mansion, Power PlantTrade Kangaskhan at the Pokémon Lab on Cinnabar Island",
+          "Pokémon Mansion, Power PlantTrade Kangaskhan at the Pokémon Lab on Cinnabar Island"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0090",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/3/3e/0090Shellder.png/70px-0090Shellder.png",
+    "name": "Shellder",
+    "url": "/wiki/Shellder_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Seafoam IslandsRoutes 6, 11, 19, 20, 21, Vermilion City, Seafoam Islands, Cinnabar Island (Super Rod)",
+          "Seafoam IslandsRoutes 6, 11, 19, 20, 21, Vermilion City, Seafoam Islands, Cinnabar Island (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Seafoam IslandsRoutes 6, 11, 19, 20, 21, Vermilion City, Seafoam Islands, Cinnabar Island (Super Rod)",
+          "Seafoam IslandsRoutes 6, 11, 19, 20, 21, Vermilion City, Seafoam Islands, Cinnabar Island (Super Rod)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 17, 18, Vermilion Harbor (Super Rod)",
+          "Routes 17, 18, Vermilion Harbor (Super Rod)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0091",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/9/90/0091Cloyster.png/70px-0091Cloyster.png",
+    "name": "Cloyster",
+    "url": "/wiki/Cloyster_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Shellder", "Evolve Shellder"]
+      ],
+      [["Blue (Japan)"], ["Evolve Shellder", "Evolve Shellder"]],
+      [["Yellow "], ["Evolve Shellder", "Evolve Shellder"]]
+    ]
+  },
+  {
+    "id": "#0092",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/c/c2/0092Gastly.png/70px-0092Gastly.png",
+    "name": "Gastly",
+    "url": "/wiki/Gastly_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Pokémon Tower", "Pokémon Tower"]
+      ],
+      [["Blue (Japan)"], ["Pokémon Tower", "Pokémon Tower"]],
+      [["Yellow "], ["Pokémon Tower", "Pokémon Tower"]]
+    ]
+  },
+  {
+    "id": "#0093",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/d1/0093Haunter.png/70px-0093Haunter.png",
+    "name": "Haunter",
+    "url": "/wiki/Haunter_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Pokémon Tower", "Pokémon Tower"]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Pokémon TowerTrade Machoke in Cerulean City*",
+          "Pokémon TowerTrade Machoke in Cerulean City*"
+        ]
+      ],
+      [["Yellow "], ["Pokémon Tower", "Pokémon Tower"]]
+    ]
+  },
+  {
+    "id": "#0094",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/4/47/0094Gengar.png/70px-0094Gengar.png",
+    "name": "Gengar",
+    "url": "/wiki/Gengar_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Haunter", "Evolve Haunter"]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Trade Machoke for Haunter in Cerulean City (evolves immediately)",
+          "Trade Machoke for Haunter in Cerulean City (evolves immediately)"
+        ]
+      ],
+      [["Yellow "], ["Evolve Haunter", "Evolve Haunter"]]
+    ]
+  },
+  {
+    "id": "#0095",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/b7/0095Onix.png/70px-0095Onix.png",
+    "name": "Onix",
+    "url": "/wiki/Onix_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Rock Tunnel, Victory Road", "Rock Tunnel, Victory Road"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Rock Tunnel, Victory Road", "Rock Tunnel, Victory Road"]
+      ],
+      [["Yellow "], ["Rock Tunnel, Victory Road", "Rock Tunnel, Victory Road"]]
+    ]
+  },
+  {
+    "id": "#0096",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/e4/0096Drowzee.png/70px-0096Drowzee.png",
+    "name": "Drowzee",
+    "url": "/wiki/Drowzee_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Route 11", "Route 11"]
+      ],
+      [["Blue (Japan)"], ["Route 11", "Route 11"]],
+      [["Yellow "], ["Route 11", "Route 11"]]
+    ]
+  },
+  {
+    "id": "#0097",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/4/4c/0097Hypno.png/70px-0097Hypno.png",
+    "name": "Hypno",
+    "url": "/wiki/Hypno_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Cerulean Cave", "Cerulean Cave"]
+      ],
+      [["Blue (Japan)"], ["Cerulean Cave", "Cerulean Cave"]],
+      [["Yellow "], ["Evolve Drowzee", "Evolve Drowzee"]]
+    ]
+  },
+  {
+    "id": "#0098",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/ed/0098Krabby.png/70px-0098Krabby.png",
+    "name": "Krabby",
+    "url": "/wiki/Krabby_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Routes 6, 11, 12, 13, 17, 18, 24, and 25, Cerulean City, Vermilion City, Fuchsia City, Safari Zone (Super Rod)",
+          "Routes 6, 11, 12, 13, 17, 18, 24, and 25, Cerulean City, Vermilion City, Fuchsia City, Safari Zone (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue "],
+        [
+          "Routes 6, 11, 12, 13, 17, 18, 24, and 25, Cerulean City, Vermilion City, Fuchsia City, Safari Zone (Super Rod)Seafoam Islands",
+          "Routes 6, 11, 12, 13, 17, 18, 24, and 25, Cerulean City, Vermilion City, Fuchsia City, Safari Zone (Super Rod)Seafoam Islands"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 6, 11, 12, 13, 17, 18, 24, and 25, Cerulean City, Vermilion City, Fuchsia City, Safari Zone (Super Rod)Seafoam IslandsTrade Growlithe at the Pokémon Lab on Cinnabar Island",
+          "Routes 6, 11, 12, 13, 17, 18, 24, and 25, Cerulean City, Vermilion City, Fuchsia City, Safari Zone (Super Rod)Seafoam IslandsTrade Growlithe at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 10 and 25, Seafoam Islands (Super Rod)Seafoam Islands",
+          "Routes 10 and 25, Seafoam Islands (Super Rod)Seafoam Islands"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0099",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/ae/0099Kingler.png/70px-0099Kingler.png",
+    "name": "Kingler",
+    "url": "/wiki/Kingler_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Route 23, Cerulean Cave (Super Rod)",
+          "Route 23, Cerulean Cave (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue "],
+        [
+          "Route 23, Cerulean Cave (Super Rod)Seafoam Islands",
+          "Route 23, Cerulean Cave (Super Rod)Seafoam Islands"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Route 23, Cerulean Cave (Super Rod)Seafoam Islands",
+          "Route 23, Cerulean Cave (Super Rod)Seafoam Islands"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 10 and 25, Seafoam Islands (Super Rod)Seafoam Islands",
+          "Routes 10 and 25, Seafoam Islands (Super Rod)Seafoam Islands"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0100",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/5/55/0100Voltorb.png/70px-0100Voltorb.png",
+    "name": "Voltorb",
+    "url": "/wiki/Voltorb_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Route 10, Power Plant", "Route 10, Power Plant"]
+      ],
+      [["Blue (Japan)"], ["Route 10, Power Plant", "Route 10, Power Plant"]],
+      [["Yellow "], ["Power Plant", "Power Plant"]]
+    ]
+  },
+  {
+    "id": "#0101",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/db/0101Electrode.png/70px-0101Electrode.png",
+    "name": "Electrode",
+    "url": "/wiki/Electrode_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Power Plant (Two)Cerulean CaveTrade Raichu at the Pokémon Lab on Cinnabar Island",
+          "Power Plant (Two)Cerulean CaveTrade Raichu at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Power Plant (Two)Cerulean Cave", "Power Plant (Two)Cerulean Cave"]
+      ],
+      [["Yellow "], ["Power Plant (Two)", "Power Plant (Two)"]]
+    ]
+  },
+  {
+    "id": "#0102",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/6/60/0102Exeggcute.png/70px-0102Exeggcute.png",
+    "name": "Exeggcute",
+    "url": "/wiki/Exeggcute_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Safari Zone", "Safari Zone"]
+      ],
+      [["Blue (Japan)"], ["Safari Zone", "Safari Zone"]],
+      [["Yellow "], ["Safari Zone", "Safari Zone"]]
+    ]
+  },
+  {
+    "id": "#0103",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/ae/0103Exeggutor.png/70px-0103Exeggutor.png",
+    "name": "Exeggutor",
+    "url": "/wiki/Exeggutor_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Exeggcute", "Evolve Exeggcute"]
+      ],
+      [["Blue (Japan)"], ["Evolve Exeggcute", "Evolve Exeggcute"]],
+      [["Yellow "], ["Evolve Exeggcute", "Evolve Exeggcute"]]
+    ]
+  },
+  {
+    "id": "#0104",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/1/19/0104Cubone.png/70px-0104Cubone.png",
+    "name": "Cubone",
+    "url": "/wiki/Cubone_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Pokémon Tower", "Pokémon Tower"]
+      ],
+      [["Blue (Japan)"], ["Pokémon Tower", "Pokémon Tower"]],
+      [
+        ["Yellow "],
+        ["Pokémon Tower and Safari Zone", "Pokémon Tower and Safari Zone"]
+      ]
+    ]
+  },
+  {
+    "id": "#0105",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/a1/0105Marowak.png/70px-0105Marowak.png",
+    "name": "Marowak",
+    "url": "/wiki/Marowak_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Victory Road and Cerulean Cave", "Victory Road and Cerulean Cave"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Victory Road and Cerulean Cave", "Victory Road and Cerulean Cave"]
+      ],
+      [["Yellow "], ["Safari Zone", "Safari Zone"]]
+    ]
+  },
+  {
+    "id": "#0106",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/00/0106Hitmonlee.png/70px-0106Hitmonlee.png",
+    "name": "Hitmonlee",
+    "url": "/wiki/Hitmonlee_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan)",
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan)",
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan)",
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0107",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/c/c0/0107Hitmonchan.png/70px-0107Hitmonchan.png",
+    "name": "Hitmonchan",
+    "url": "/wiki/Hitmonchan_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee)",
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee)",
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee)",
+          "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0108",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/f/f2/0108Lickitung.png/70px-0108Lickitung.png",
+    "name": "Lickitung",
+    "url": "/wiki/Lickitung_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Trade Slowbro on Route 18", "Trade Slowbro on Route 18"]
+      ],
+      [["Blue (Japan)"], ["Safari Zone", "Safari Zone"]],
+      [["Yellow "], ["Cerulean Cave", "Cerulean Cave"]]
+    ]
+  },
+  {
+    "id": "#0109",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/1/16/0109Koffing.png/70px-0109Koffing.png",
+    "name": "Koffing",
+    "url": "/wiki/Koffing_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Pokémon Mansion", "Pokémon Mansion"]
+      ],
+      [["Blue (Japan)"], ["Pokémon Mansion", "Pokémon Mansion"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0110",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/7/72/0110Weezing.png/70px-0110Weezing.png",
+    "name": "Weezing",
+    "url": "/wiki/Weezing_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Pokémon Mansion", "Pokémon Mansion"]
+      ],
+      [["Blue (Japan)"], ["Pokémon Mansion", "Pokémon Mansion"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0111",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/7/7f/0111Rhyhorn.png/70px-0111Rhyhorn.png",
+    "name": "Rhyhorn",
+    "url": "/wiki/Rhyhorn_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Safari Zone", "Safari Zone"]
+      ],
+      [["Blue (Japan)"], ["Safari Zone", "Safari Zone"]],
+      [
+        ["Yellow "],
+        ["Safari Zone, Cerulean Cave", "Safari Zone, Cerulean Cave"]
+      ]
+    ]
+  },
+  {
+    "id": "#0112",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/7/79/0112Rhydon.png/70px-0112Rhydon.png",
+    "name": "Rhydon",
+    "url": "/wiki/Rhydon_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Cerulean Cave", "Cerulean Cave"]
+      ],
+      [["Blue (Japan)"], ["Cerulean Cave", "Cerulean Cave"]],
+      [
+        ["Yellow "],
+        [
+          "Cerulean CaveTrade Golduck at the Pokémon Lab on Cinnabar Island",
+          "Cerulean CaveTrade Golduck at the Pokémon Lab on Cinnabar Island"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0113",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/c/c0/0113Chansey.png/70px-0113Chansey.png",
+    "name": "Chansey",
+    "url": "/wiki/Chansey_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Safari Zone, Cerulean Cave", "Safari Zone, Cerulean Cave"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Safari Zone, Cerulean Cave", "Safari Zone, Cerulean Cave"]
+      ],
+      [
+        ["Yellow "],
+        ["Safari Zone, Cerulean Cave", "Safari Zone, Cerulean Cave"]
+      ]
+    ]
+  },
+  {
+    "id": "#0114",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/22/0114Tangela.png/70px-0114Tangela.png",
+    "name": "Tangela",
+    "url": "/wiki/Tangela_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Route 21Trade Venonat at the Pokémon Lab on Cinnabar Island",
+          "Route 21Trade Venonat at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [["Blue (Japan)"], ["Route 21", "Route 21"]],
+      [["Yellow "], ["Safari Zone", "Safari Zone"]]
+    ]
+  },
+  {
+    "id": "#0115",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/e5/0115Kangaskhan.png/70px-0115Kangaskhan.png",
+    "name": "Kangaskhan",
+    "url": "/wiki/Kangaskhan_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Safari Zone", "Safari Zone"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Trade Rhydon on Route 11", "Trade Rhydon on Route 11"]
+      ],
+      [["Yellow "], ["Safari Zone", "Safari Zone"]]
+    ]
+  },
+  {
+    "id": "#0116",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/1/14/0116Horsea.png/70px-0116Horsea.png",
+    "name": "Horsea",
+    "url": "/wiki/Horsea_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Seafoam IslandsRoutes 19, 20, and 21, Seafoam Islands, Cinnabar Island (Super Rod)",
+          "Seafoam IslandsRoutes 19, 20, and 21, Seafoam Islands, Cinnabar Island (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue "],
+        [
+          "Routes 19, 20, and 21, Seafoam Islands, Cinnabar Island (Super Rod)",
+          "Routes 19, 20, and 21, Seafoam Islands, Cinnabar Island (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Rocket Game Corner, Seafoam IslandsRoutes 19, 20, and 21, Seafoam Islands, Cinnabar Island (Super Rod)",
+          "Rocket Game Corner, Seafoam IslandsRoutes 19, 20, and 21, Seafoam Islands, Cinnabar Island (Super Rod)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 10, 11, 12, and 13, Vermilion City (Super Rod)",
+          "Routes 10, 11, 12, and 13, Vermilion City (Super Rod)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0117",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/22/0117Seadra.png/70px-0117Seadra.png",
+    "name": "Seadra",
+    "url": "/wiki/Seadra_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Seafoam IslandsRoute 23 and Cerulean Cave (Super Rod)",
+          "Seafoam IslandsRoute 23 and Cerulean Cave (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue "],
+        [
+          "Route 23 and Cerulean Cave (Super Rod)",
+          "Route 23 and Cerulean Cave (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Route 23 and Cerulean Cave (Super Rod)",
+          "Route 23 and Cerulean Cave (Super Rod)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        ["Routes 12 and 13 (Super Rod)", "Routes 12 and 13 (Super Rod)"]
+      ]
+    ]
+  },
+  {
+    "id": "#0118",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/b6/0118Goldeen.png/70px-0118Goldeen.png",
+    "name": "Goldeen",
+    "url": "/wiki/Goldeen_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Good Rod)Routes 12, 13, 17, 18, 19, 20, 21, 22, 24, and 25, Cerulean City, Fuchsia City, Seafoam Islands, Cinnabar Island (Super Rod)",
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Good Rod)Routes 12, 13, 17, 18, 19, 20, 21, 22, 24, and 25, Cerulean City, Fuchsia City, Seafoam Islands, Cinnabar Island (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod)Routes 12, 13, 17, 18, 19, 20, 21, 22, 24, and 25, Cerulean City, Fuchsia City, Seafoam Islands, Cinnabar Island (Super Rod)",
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod)Routes 12, 13, 17, 18, 19, 20, 21, 22, 24, and 25, Cerulean City, Fuchsia City, Seafoam Islands, Cinnabar Island (Super Rod)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Good Rod)Routes 6 and 24, Cerulean City, Celadon City, Cerulean Cave (Super Rod)",
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Good Rod)Routes 6 and 24, Cerulean City, Celadon City, Cerulean Cave (Super Rod)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0119",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/7/76/0119Seaking.png/70px-0119Seaking.png",
+    "name": "Seaking",
+    "url": "/wiki/Seaking_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Route 23, Fuchsia City, Cerulean Cave (Super Rod)",
+          "Route 23, Fuchsia City, Cerulean Cave (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Route 23, Fuchsia City, Cerulean Cave (Super Rod)",
+          "Route 23, Fuchsia City, Cerulean Cave (Super Rod)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Route 24, Cerulean City, Cerulean Cave (Super Rod)",
+          "Route 24, Cerulean City, Cerulean Cave (Super Rod)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0120",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/3/38/0120Staryu.png/70px-0120Staryu.png",
+    "name": "Staryu",
+    "url": "/wiki/Staryu_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Seafoam IslandsRoutes 19, 20, 21, Cinnabar Island, Seafoam Islands (Super Rod)",
+          "Seafoam IslandsRoutes 19, 20, 21, Cinnabar Island, Seafoam Islands (Super Rod)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Seafoam IslandsRoutes 19, 20, 21, Cinnabar Island, Seafoam Islands (Super Rod)",
+          "Seafoam IslandsRoutes 19, 20, 21, Cinnabar Island, Seafoam Islands (Super Rod)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Seafoam Islands (Surfing)Routes 19, 20, 21, Pallet Town, Vermilion Harbor, Cinnabar Island, Seafoam Islands (Super Rod)",
+          "Seafoam Islands (Surfing)Routes 19, 20, 21, Pallet Town, Vermilion Harbor, Cinnabar Island, Seafoam Islands (Super Rod)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0121",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/aa/0121Starmie.png/70px-0121Starmie.png",
+    "name": "Starmie",
+    "url": "/wiki/Starmie_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Staryu", "Evolve Staryu"]
+      ],
+      [["Blue (Japan)"], ["Evolve Staryu", "Evolve Staryu"]],
+      [["Yellow "], ["Evolve Staryu", "Evolve Staryu"]]
+    ]
+  },
+  {
+    "id": "#0122",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/f/fb/0122Mr._Mime.png/70px-0122Mr._Mime.png",
+    "name": "Mr. Mime",
+    "url": "/wiki/Mr._Mime_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Trade Abra on Route 2", "Trade Abra on Route 2"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Trade Jigglypuff on Route 2", "Trade Jigglypuff on Route 2"]
+      ],
+      [["Yellow "], ["Trade Clefairy on Route 2", "Trade Clefairy on Route 2"]]
+    ]
+  },
+  {
+    "id": "#0123",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/81/0123Scyther.png/70px-0123Scyther.png",
+    "name": "Scyther",
+    "url": "/wiki/Scyther_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Safari ZoneCeladon City (Rocket Game Corner)",
+          "Safari ZoneCeladon City (Rocket Game Corner)"
+        ]
+      ],
+      [["Blue "], ["Trade", "Trade"]],
+      [["Blue (Japan)"], ["Safari Zone", "Safari Zone"]],
+      [
+        ["Yellow "],
+        [
+          "Safari ZoneCeladon City (Rocket Game Corner)",
+          "Safari ZoneCeladon City (Rocket Game Corner)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0124",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/07/0124Jynx.png/70px-0124Jynx.png",
+    "name": "Jynx",
+    "url": "/wiki/Jynx_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Trade Poliwhirl in Cerulean City", "Trade Poliwhirl in Cerulean City"]
+      ],
+      [["Blue (Japan)"], ["Seafoam Islands", "Seafoam Islands"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0125",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/5/5c/0125Electabuzz.png/70px-0125Electabuzz.png",
+    "name": "Electabuzz",
+    "url": "/wiki/Electabuzz_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Power Plant", "Power Plant"]],
+      [["Blue "], ["Trade", "Trade"]],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0126",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/7/72/0126Magmar.png/70px-0126Magmar.png",
+    "name": "Magmar",
+    "url": "/wiki/Magmar_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [["Blue "], ["Pokémon Mansion", "Pokémon Mansion"]],
+      [["Blue (Japan)"], ["Trade", "Trade"]],
+      [["Yellow "], ["Trade", "Trade"]]
+    ]
+  },
+  {
+    "id": "#0127",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/a9/0127Pinsir.png/70px-0127Pinsir.png",
+    "name": "Pinsir",
+    "url": "/wiki/Pinsir_(Pok%C3%A9mon)",
+    "get": [
+      [["Red "], ["Trade", "Trade"]],
+      [
+        ["Blue "],
+        [
+          "Safari Zone, Celadon City (Rocket Game Corner)",
+          "Safari Zone, Celadon City (Rocket Game Corner)"
+        ]
+      ],
+      [["Blue (Japan)"], ["Safari Zone", "Safari Zone"]],
+      [
+        ["Yellow "],
+        [
+          "Safari Zone, Celadon City (Rocket Game Corner)",
+          "Safari Zone, Celadon City (Rocket Game Corner)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0128",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/ad/0128Tauros.png/70px-0128Tauros.png",
+    "name": "Tauros",
+    "url": "/wiki/Tauros_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Safari Zone", "Safari Zone"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Trade Persian on Route 18", "Trade Persian on Route 18"]
+      ],
+      [["Yellow "], ["Safari Zone", "Safari Zone"]]
+    ]
+  },
+  {
+    "id": "#0129",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/d1/0129Magikarp.png/70px-0129Magikarp.png",
+    "name": "Magikarp",
+    "url": "/wiki/Magikarp_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Old Rod)Routes 12, 13, 17, and 18, Fuchsia City (Super Rod)Buy from Magikarp salesman for $500 on Route 4",
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Old Rod)Routes 12, 13, 17, and 18, Fuchsia City (Super Rod)Buy from Magikarp salesman for $500 on Route 4"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Old Rod)Routes 12, 13, 17, and 18, Fuchsia City (Super Rod)Buy from Magikarp salesman for $500 on Route 4",
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Old Rod)Routes 12, 13, 17, and 18, Fuchsia City (Super Rod)Buy from Magikarp salesman for $500 on Route 4"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Old Rod)Fuchsia City, Safari Zone (Super Rod)Buy from Magikarp salesman for $500 on Route 4",
+          "Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Old Rod)Fuchsia City, Safari Zone (Super Rod)Buy from Magikarp salesman for $500 on Route 4"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0130",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/b/bc/0130Gyarados.png/70px-0130Gyarados.png",
+    "name": "Gyarados",
+    "url": "/wiki/Gyarados_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Magikarp", "Evolve Magikarp"]
+      ],
+      [["Blue (Japan)"], ["Evolve Magikarp", "Evolve Magikarp"]],
+      [["Yellow "], ["Fuchsia City (Super Rod)", "Fuchsia City (Super Rod)"]]
+    ]
+  },
+  {
+    "id": "#0131",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/9/99/0131Lapras.png/70px-0131Lapras.png",
+    "name": "Lapras",
+    "url": "/wiki/Lapras_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Received from a person in Silph Co. (Saffron City)",
+          "Received from a person in Silph Co. (Saffron City)"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Received from a person in Silph Co. (Saffron City)",
+          "Received from a person in Silph Co. (Saffron City)"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Received from a person in Silph Co. (Saffron City)",
+          "Received from a person in Silph Co. (Saffron City)"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0132",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/25/0132Ditto.png/70px-0132Ditto.png",
+    "name": "Ditto",
+    "url": "/wiki/Ditto_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Routes 13, 14, 15, and 23, Cerulean Cave",
+          "Routes 13, 14, 15, and 23, Cerulean Cave"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Routes 13, 14, 15, and 23, Rock Tunnel, Cerulean Cave",
+          "Routes 13, 14, 15, and 23, Rock Tunnel, Cerulean Cave"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Pokémon Mansion and Cerulean Cave",
+          "Pokémon Mansion and Cerulean Cave"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0133",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/4/4c/0133Eevee.png/70px-0133Eevee.png",
+    "name": "Eevee",
+    "url": "/wiki/Eevee_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Received from a person in Celadon Mansion",
+          "Received from a person in Celadon Mansion"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Received from a person in Celadon Mansion",
+          "Received from a person in Celadon Mansion"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Received from a person in Celadon Mansion",
+          "Received from a person in Celadon Mansion"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0134",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/6/6d/0134Vaporeon.png/70px-0134Vaporeon.png",
+    "name": "Vaporeon",
+    "url": "/wiki/Vaporeon_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Eevee", "Evolve Eevee"]
+      ],
+      [["Blue (Japan)"], ["Evolve Eevee", "Evolve Eevee"]],
+      [["Yellow "], ["Evolve Eevee", "Evolve Eevee"]]
+    ]
+  },
+  {
+    "id": "#0135",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/e3/0135Jolteon.png/70px-0135Jolteon.png",
+    "name": "Jolteon",
+    "url": "/wiki/Jolteon_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Eevee", "Evolve Eevee"]
+      ],
+      [["Blue (Japan)"], ["Evolve Eevee", "Evolve Eevee"]],
+      [["Yellow "], ["Evolve Eevee", "Evolve Eevee"]]
+    ]
+  },
+  {
+    "id": "#0136",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/f/f1/0136Flareon.png/70px-0136Flareon.png",
+    "name": "Flareon",
+    "url": "/wiki/Flareon_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Eevee", "Evolve Eevee"]
+      ],
+      [["Blue (Japan)"], ["Evolve Eevee", "Evolve Eevee"]],
+      [["Yellow "], ["Evolve Eevee", "Evolve Eevee"]]
+    ]
+  },
+  {
+    "id": "#0137",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/8e/0137Porygon.png/70px-0137Porygon.png",
+    "name": "Porygon",
+    "url": "/wiki/Porygon_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Rocket Game Corner", "Rocket Game Corner"]
+      ],
+      [["Blue (Japan)"], ["Rocket Game Corner", "Rocket Game Corner"]],
+      [["Yellow "], ["Rocket Game Corner", "Rocket Game Corner"]]
+    ]
+  },
+  {
+    "id": "#0138",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/e/e6/0138Omanyte.png/70px-0138Omanyte.png",
+    "name": "Omanyte",
+    "url": "/wiki/Omanyte_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island",
+          "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island",
+          "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island",
+          "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0139",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/6/66/0139Omastar.png/70px-0139Omastar.png",
+    "name": "Omastar",
+    "url": "/wiki/Omastar_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Omanyte", "Evolve Omanyte"]
+      ],
+      [["Blue (Japan)"], ["Evolve Omanyte", "Evolve Omanyte"]],
+      [["Yellow "], ["Evolve Omanyte", "Evolve Omanyte"]]
+    ]
+  },
+  {
+    "id": "#0140",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/d2/0140Kabuto.png/70px-0140Kabuto.png",
+    "name": "Kabuto",
+    "url": "/wiki/Kabuto_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island",
+          "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island",
+          "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island",
+          "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0141",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/4/41/0141Kabutops.png/70px-0141Kabutops.png",
+    "name": "Kabutops",
+    "url": "/wiki/Kabutops_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Kabuto", "Evolve Kabuto"]
+      ],
+      [["Blue (Japan)"], ["Evolve Kabuto", "Evolve Kabuto"]],
+      [["Yellow "], ["Evolve Kabuto", "Evolve Kabuto"]]
+    ]
+  },
+  {
+    "id": "#0142",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/2c/0142Aerodactyl.png/70px-0142Aerodactyl.png",
+    "name": "Aerodactyl",
+    "url": "/wiki/Aerodactyl_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        [
+          "Revive from Old Amber at the Pokémon Lab on Cinnabar Island",
+          "Revive from Old Amber at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        [
+          "Revive from Old Amber at the Pokémon Lab on Cinnabar Island",
+          "Revive from Old Amber at the Pokémon Lab on Cinnabar Island"
+        ]
+      ],
+      [
+        ["Yellow "],
+        [
+          "Revive from Old Amber at the Pokémon Lab on Cinnabar Island",
+          "Revive from Old Amber at the Pokémon Lab on Cinnabar Island"
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "#0143",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/3/3f/0143Snorlax.png/70px-0143Snorlax.png",
+    "name": "Snorlax",
+    "url": "/wiki/Snorlax_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Routes 12 and 16 (Only two)", "Routes 12 and 16 (Only two)"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Routes 12 and 16 (Only two)", "Routes 12 and 16 (Only two)"]
+      ],
+      [
+        ["Yellow "],
+        ["Routes 12 and 16 (Only two)", "Routes 12 and 16 (Only two)"]
+      ]
+    ]
+  },
+  {
+    "id": "#0144",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/d/d0/0144Articuno.png/70px-0144Articuno.png",
+    "name": "Articuno",
+    "url": "/wiki/Articuno_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Seafoam Islands (Only one)", "Seafoam Islands (Only one)"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Seafoam Islands (Only one)", "Seafoam Islands (Only one)"]
+      ],
+      [
+        ["Yellow "],
+        ["Seafoam Islands (Only one)", "Seafoam Islands (Only one)"]
+      ]
+    ]
+  },
+  {
+    "id": "#0145",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/c/c6/0145Zapdos.png/70px-0145Zapdos.png",
+    "name": "Zapdos",
+    "url": "/wiki/Zapdos_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Power Plant (Only one)", "Power Plant (Only one)"]
+      ],
+      [["Blue (Japan)"], ["Power Plant (Only one)", "Power Plant (Only one)"]],
+      [["Yellow "], ["Power Plant (Only one)", "Power Plant (Only one)"]]
+    ]
+  },
+  {
+    "id": "#0146",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/2/21/0146Moltres.png/70px-0146Moltres.png",
+    "name": "Moltres",
+    "url": "/wiki/Moltres_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Victory Road (Only one)", "Victory Road (Only one)"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Victory Road (Only one)", "Victory Road (Only one)"]
+      ],
+      [["Yellow "], ["Victory Road (Only one)", "Victory Road (Only one)"]]
+    ]
+  },
+  {
+    "id": "#0147",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/a/ae/0147Dratini.png/70px-0147Dratini.png",
+    "name": "Dratini",
+    "url": "/wiki/Dratini_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red "],
+        [
+          "Safari Zone (Super Rod)Buy for 2800C in the Rocket Game Corner in Celadon City",
+          "Safari Zone (Super Rod)Buy for 2800C in the Rocket Game Corner in Celadon City"
+        ]
+      ],
+      [
+        ["Blue "],
+        [
+          "Safari Zone (Super Rod)Buy for 4600C in the Rocket Game Corner in Celadon City",
+          "Safari Zone (Super Rod)Buy for 4600C in the Rocket Game Corner in Celadon City"
+        ]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Safari Zone (Super Rod)", "Safari Zone (Super Rod)"]
+      ],
+      [["Yellow "], ["Safari Zone (Super Rod)", "Safari Zone (Super Rod)"]]
+    ]
+  },
+  {
+    "id": "#0148",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/0/0d/0148Dragonair.png/70px-0148Dragonair.png",
+    "name": "Dragonair",
+    "url": "/wiki/Dragonair_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Dratini", "Evolve Dratini"]
+      ],
+      [["Blue (Japan)"], ["Rocket Game Corner", "Rocket Game Corner"]],
+      [["Yellow "], ["Safari Zone (Super Rod)", "Safari Zone (Super Rod)"]]
+    ]
+  },
+  {
+    "id": "#0149",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/1/1c/0149Dragonite.png/70px-0149Dragonite.png",
+    "name": "Dragonite",
+    "url": "/wiki/Dragonite_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Evolve Dragonair", "Evolve Dragonair"]
+      ],
+      [["Blue (Japan)"], ["Evolve Dragonair", "Evolve Dragonair"]],
+      [["Yellow "], ["Evolve Dragonair", "Evolve Dragonair"]]
+    ]
+  },
+  {
+    "id": "#0150",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/8/89/0150Mewtwo.png/70px-0150Mewtwo.png",
+    "name": "Mewtwo",
+    "url": "/wiki/Mewtwo_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Cerulean Cave (Only one)", "Cerulean Cave (Only one)"]
+      ],
+      [
+        ["Blue (Japan)"],
+        ["Cerulean Cave (Only one)", "Cerulean Cave (Only one)"]
+      ],
+      [["Yellow "], ["Cerulean Cave (Only one)", "Cerulean Cave (Only one)"]]
+    ]
+  },
+  {
+    "id": "#0151",
+    "img": "https://archives.bulbagarden.net/media/upload/thumb/9/9a/0151Mew.png/70px-0151Mew.png",
+    "name": "Mew",
+    "url": "/wiki/Mew_(Pok%C3%A9mon)",
+    "get": [
+      [
+        ["Red", "Blue"],
+        ["Event", "Event"]
+      ],
+      [["Blue (Japan)"], ["Event", "Event"]],
+      [["Yellow "], ["Event", "Event"]]
+    ]
+  }
+]
