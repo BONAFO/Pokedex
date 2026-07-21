@@ -11,12 +11,20 @@ export default function LoginModal({ close }) {
 
   const { login } = useAuth();
 
-  const handleLogin = () => {
-    const success = login(password);
+  const handleLogin = async () => {
+    try {
+      const response = await axios.post("/api/user", {
+        password,
+      });
 
-    if (success) {
-      close();
-    } else {
+      if (response.data.success) {
+        login();
+        close();
+      } else {
+        setError(true);
+      }
+    } catch (error) {
+      console.error(error);
       setError(true);
     }
   };
