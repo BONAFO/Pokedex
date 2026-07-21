@@ -1,30 +1,29 @@
 import { NextResponse } from "next/server";
-import bcrypt from "bcrypt";
+import bcrypt from "bcryptjs";
 import prisma from "@/src/connection/prisma";
 
 
-export async function POST(request){
+export async function POST(request) {
 
-    try{
+    try {
 
         const { password } = await request.json();
 
 
         const user = await prisma.user.findUnique({
-            where:{
-                id:1
+            where: {
+                id: 1
             }
         });
 
 
-        if(!user){
+        if (!user) {
 
             return NextResponse.json({
-                success:false
+                success: false
             });
 
         }
-
 
         const valid = await bcrypt.compare(
             password,
@@ -33,20 +32,20 @@ export async function POST(request){
 
 
         return NextResponse.json({
-            success:valid
+            success: valid
         });
 
 
-    }catch(error){
+    } catch (error) {
 
         console.error(error);
 
         return NextResponse.json(
             {
-                success:false
+                success: false
             },
             {
-                status:500
+                status: 500
             }
         );
 
