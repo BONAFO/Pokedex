@@ -1,4 +1,4 @@
-import gen1 from "@/db/pokedex_1.json"
+import gen1 from "@/src/db/pokedex_1.json"
 
 const pokedex = [...gen1];
 
